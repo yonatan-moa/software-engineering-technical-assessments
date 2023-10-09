@@ -18,3 +18,4 @@ class ResultsController:
     def scoreboard(self) -> dict:
         # Left blank for you to fill in
         return {}
+    
